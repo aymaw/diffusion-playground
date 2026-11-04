@@ -1,0 +1,14 @@
+{
+  "command": "OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 PYTHONPATH=src python -m diffusionlab.experiment --out runs/reference",
+  "date": "2026-11-04",
+  "quick": false,
+  "seconds": 8.205738292075694,
+  "environment": "environment.json",
+  "metrics_sha256": "21ce7271c80815060ded2054d942a4b74598dbad8c6dae6383bbf36d170aa0a5",
+  "source_sha256": {
+    "src/diffusionlab/__init__.py": "fb2b77ddf0326425b82c5a303655927272c81f1d210df8e8793a4407ef7fcf24",
+    "src/diffusionlab/core.py": "ad88f693d1b77d8a75f6085aa794f2e09e0dfe96912b4fab7a4ab84ca07d3fef",
+    "src/diffusionlab/experiment.py": "dc549ae6ff3c1b0d1ee9fba101170e88b82bfd31d351feb8626cd72eaa782711",
+    "src/diffusionlab/visual.py": "54ab848a43f003d753a12fd263d15d9c7d8a2452d655fe2b9195cf22f20f122b"
+  }
+}
