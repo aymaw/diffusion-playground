@@ -1,0 +1,8 @@
+{
+  "python": "3.12.9 | packaged by conda-forge | (main, Mar  4 2025, 22:44:42) [Clang 18.1.8 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "numpy": "2.3.4",
+  "created": "2026-11-04",
+  "synthetic": true,
+  "torch": "2.9.0"
+}
